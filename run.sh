@@ -26,6 +26,7 @@ print_banner() {
     echo -e "${CYAN}"
     echo "╔══════════════════════════════════════╗"
     echo "║           OTP Sender                 ║"
+    echo "║      github.com/BhasKar6999         ║"
     echo "╚══════════════════════════════════════╝"
     echo -e "${NC}"
     echo -e "${YELLOW}Target Mobile:${NC} ${GREEN}$MOBILE${NC}"
